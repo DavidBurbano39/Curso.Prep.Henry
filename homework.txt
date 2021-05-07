@@ -1,0 +1,7 @@
+variable: son como cajas vacias en donde despues vamos a guardar un objeto (valor).
+strings: son cadenas de caracteres o palabras.
+funciones: son lineas de codigo que se encargan de resolver un tarea especifica, esta puede devolver un valor o no, estas tienen
+parametros o argumentos que son variables que cambian su comportamiento.
+declaraciones if: estas te van a devolver algo del tipo booleano ya que if es como si fuera un si, si haces una cosa pasa tal otra.
+y si eso no pasa pone algo mas que podria pasar.
+valores boolenaos: son valores de verdadero o falso.
