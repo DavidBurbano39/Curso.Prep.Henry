@@ -1,0 +1,11 @@
+el ciclo for es un ciclo en el que repetimos una serie de instrucciones, a este ciclo a diferencia del ciclo while le podemos 
+asignar las veces que queremos que se repita.
+
+&& (AND)es un operador logico en el cual podemos usar minimo dos expresiones, y nos devolvera true si las dos expresiones son
+verdaderas o false en caso contrario.
+
+||(OR) es un operador logico en el cual podemos usar minimo dos expresiones, y nos devuelve true si una de las dos es verdadera
+true si las dos son verdaderas y false si dos son falsas.
+
+!(negacion) nos sirve para negar algo ejm 5 != esta es una desigualdad, pero si agregamos dos iguales (!==) es una desigualdad estricta
+osea compara tambien que tipo de dato es. 
